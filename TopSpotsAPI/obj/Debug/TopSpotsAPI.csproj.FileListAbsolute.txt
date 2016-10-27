@@ -1,0 +1,93 @@
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\obj\Debug\TopSpotsAPI.csprojResolveAssemblyReference.cache
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\ApplicationInsights.config
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\roslyn\csc.exe
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\roslyn\vbc.exe
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\roslyn\VBCSCompiler.exe
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\TopSpotsAPI.dll.config
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\TopSpotsAPI.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\TopSpotsAPI.pdb
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\EntityFramework.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\EntityFramework.SqlServer.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.Web.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.ApplicationInsights.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Newtonsoft.Json.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\System.Net.Http.Formatting.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\System.Web.Http.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\System.Web.Http.WebHost.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\EntityFramework.xml
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\EntityFramework.SqlServer.xml
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.Web.xml
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.ApplicationInsights.xml
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\Newtonsoft.Json.xml
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\System.Net.Http.Formatting.xml
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\System.Web.Http.xml
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\bin\System.Web.Http.WebHost.xml
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\obj\Debug\TopSpotsAPI.dll
+c:\users\tristan ewing\documents\visual studio 2015\Projects\TopSpotsAPI\TopSpotsAPI\obj\Debug\TopSpotsAPI.pdb
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\obj\Debug\TopSpotsAPI.csprojResolveAssemblyReference.cache
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\obj\Debug\TopSpotsAPI.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\obj\Debug\TopSpotsAPI.pdb
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\ApplicationInsights.config
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\roslyn\csc.exe
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\roslyn\vbc.exe
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\roslyn\VBCSCompiler.exe
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\TopSpotsAPI.dll.config
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\TopSpotsAPI.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\TopSpotsAPI.pdb
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\EntityFramework.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\EntityFramework.SqlServer.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.Web.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.ApplicationInsights.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Newtonsoft.Json.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\System.Net.Http.Formatting.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\System.Web.Http.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\System.Web.Http.WebHost.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\EntityFramework.xml
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\EntityFramework.SqlServer.xml
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.Web.xml
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.ApplicationInsights.xml
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\Newtonsoft.Json.xml
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\System.Net.Http.Formatting.xml
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\System.Web.Http.xml
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\System.Web.Http.WebHost.xml
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\System.Web.Cors.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\System.Web.Http.Cors.dll
+C:\cProjects\dev\TopSpotsAPI\TopSpotsAPI\bin\System.Web.Http.Cors.xml
